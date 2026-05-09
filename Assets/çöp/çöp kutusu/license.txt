@@ -1,0 +1,11 @@
+Model Information:
+* title:	[CC0] Garbage Bin - Ready to Unity HDRP
+* source:	https://sketchfab.com/3d-models/cc0-garbage-bin-ready-to-unity-hdrp-27ae2319ba184d2588ba015f08058cbc
+* author:	karlwirbelwind (https://sketchfab.com/karlwirbelwind)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "[CC0] Garbage Bin - Ready to Unity HDRP" (https://sketchfab.com/3d-models/cc0-garbage-bin-ready-to-unity-hdrp-27ae2319ba184d2588ba015f08058cbc) by karlwirbelwind (https://sketchfab.com/karlwirbelwind) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Plastic Basket
+* source:	https://sketchfab.com/3d-models/plastic-basket-c674944ba76843b69501b8cdbbfd7fa4
+* author:	YIK (https://sketchfab.com/Ykc)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Plastic Basket" (https://sketchfab.com/3d-models/plastic-basket-c674944ba76843b69501b8cdbbfd7fa4) by YIK (https://sketchfab.com/Ykc) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

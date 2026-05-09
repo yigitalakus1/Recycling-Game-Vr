@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cartoon Teacher Model
+* source:	https://sketchfab.com/3d-models/cartoon-teacher-model-2e824e4c1d224fb8824937f134f1592f
+* author:	Eduardo Lira (https://sketchfab.com/eduardolira)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cartoon Teacher Model" (https://sketchfab.com/3d-models/cartoon-teacher-model-2e824e4c1d224fb8824937f134f1592f) by Eduardo Lira (https://sketchfab.com/eduardolira) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

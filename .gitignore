@@ -1,0 +1,119 @@
+# =====================================================
+# Unity 3D / VR Project .gitignore
+# =====================================================
+# Unity klasorleri (Unity tarafindan yeniden uretilir)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Asset meta veriyle birlikte mutlaka commit edilir, ama paket cache'i ignore edilir
+[Aa]ssets/AssetStoreTools*
+[Aa]ssets/Plugins/Editor/JetBrains*
+[Aa]ssets/StreamingAssets/aa.meta
+[Aa]ssets/StreamingAssets/aa/*
+
+# IDE / Editor
+.vs/
+.vscode/
+.idea/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Visual Studio
+ExportedObj/
+.consulo/
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+sysinfo.txt
+
+# Unity build output / crash logs
+*.apk
+*.aab
+*.unitypackage*
+*.app
+crashlytics-build.properties
+hs_err_pid*.log
+
+# Burst sik karsilasilan
+[Aa]ssets/[Ss]treamingAssets/aa*
+
+# Gradle / Android
+.gradle/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# =====================================================
+# Firebase / Secrets / Keys
+# (Yeni gelistirici kendi projesini ayarlasin)
+# =====================================================
+# Firebase Unity SDK installer paketleri (cok buyuk, tekrar indirilebilir)
+# Yeni gelistirici Firebase Unity SDK'yi resmi siteden tekrar indirsin:
+#   https://firebase.google.com/download/unity
+[Aa]ssets/firebase/firebase_unity_sdk/
+[Aa]ssets/firebase/firebase_unity_sdk.meta
+
+# Firebase yapilandirma dosyalari (gercek API key icerir)
+[Aa]ssets/firebase/google-services.json
+[Aa]ssets/firebase/google-services.json.meta
+[Aa]ssets/StreamingAssets/google-services-desktop.json
+[Aa]ssets/StreamingAssets/google-services-desktop.json.meta
+GoogleService-Info.plist
+**/GoogleService-Info.plist
+
+# Service account / admin sdk anahtarlari
+*-firebase-adminsdk-*.json
+serviceAccountKey.json
+service-account*.json
+
+# Genel secret dosyalari
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.p8
+*.mobileprovision
+secrets.json
+credentials.json
+
+# =====================================================
+# Asset Store paket installer'lari (cok buyuk, asset zaten import edilmis)
+# =====================================================
+[Aa]ssets/URP_WasteOvergrowth_SA/HDRP_WasteOvergrowth_SA.unitypackage
+[Aa]ssets/URP_WasteOvergrowth_SA/HDRP_WasteOvergrowth_SA.unitypackage.meta
+[Aa]ssets/**/*.unitypackage
+[Aa]ssets/**/*.unitypackage.meta
+
+# =====================================================
+# Misc
+# =====================================================
+.claude/

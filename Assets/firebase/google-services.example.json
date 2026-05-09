@@ -1,0 +1,37 @@
+{
+  "_comment": "Bu dosya bir SABLONDUR. Gercek google-services.json `.gitignore` ile haric tutulmustur.",
+  "_setup_instructions": [
+    "1) Firebase Console'da kendi projenizi olusturun: https://console.firebase.google.com",
+    "2) Android uygulamasi ekleyin (paket adi: com.Unity.Technologies.VR.Template veya kendi paket adiniz)",
+    "3) google-services.json dosyasini indirin",
+    "4) Bu dosyayi Assets/firebase/google-services.json olarak yerlestirin",
+    "5) Ayrica StreamingAssets/google-services-desktop.json icin Firebase Unity SDK ile uretilen dosyayi kullanin"
+  ],
+  "project_info": {
+    "project_number": "YOUR_PROJECT_NUMBER",
+    "project_id": "YOUR_PROJECT_ID",
+    "storage_bucket": "YOUR_PROJECT_ID.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "YOUR_APP_ID",
+        "android_client_info": {
+          "package_name": "com.YourCompany.YourApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "YOUR_API_KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
